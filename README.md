@@ -15,6 +15,7 @@ Screenshot 2024-06-25 111713
 ##Overview of the Project: This project involves preprocessing the Titanic dataset and training a logistic regression model to predict passenger survival. The key steps include data loading, preprocessing, model training, and evaluation.
 
 Data Loading:
+![Uploading Screenshot 2024-06-25 111713.png…]()
 
 The Titanic dataset is loaded from a URL using pandas, and the first few rows are displayed to understand the data structure. Feature Selection:
 
